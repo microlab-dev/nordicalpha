@@ -72,7 +72,7 @@ export default defineConfig({
   ],
 
   image: {
-    domains: ['cdn.pixabay.com'],
+    domains: ['cdn.pixabay.com','pub-cde820a2c907491fbbfdb7e869d044e8.r2.dev']
   },
 
   markdown: {
