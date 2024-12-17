@@ -1,9 +1,9 @@
 ---
-title: 'Terms and Conditions'
+title: 'Условия использования'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-_Last updated_: January 06, 2023
+_Последнее обновление_: 28 Октября 2023 г.
 
 Please read these terms and conditions carefully before using Our Service.
 
@@ -31,7 +31,7 @@ For the purposes of these Terms and Conditions:
 
 - **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
 
-- **Website** refers to AstroWind, accessible from [https://astrowind.vercel.app](https://astrowind.vercel.app)
+- **Website** refers to AstroWind, accessible from [https://www.nordicalpha.eu](https://www.nordicalpha.eu)
 
 - **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
@@ -117,4 +117,4 @@ By continuing to access or use Our Service after those revisions become effectiv
 
 If you have any questions about these Terms and Conditions, You can contact us:
 
-- By email: somecoolemail@domain.com
+- By email: info@nordicalpha.eu
